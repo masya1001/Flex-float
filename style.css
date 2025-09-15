@@ -9,7 +9,7 @@ img {
 
 .parent {
 	display: flex;
-	flex-direction: row-reverse;
+	flex-direction: column-reverse;
 	width: 300px;
 	height: 200px;
 	border: 5px;
